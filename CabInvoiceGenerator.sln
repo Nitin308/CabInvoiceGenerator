@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabInvoiceGenerator", "CabInvoiceGenerator.csproj", "{EF8CDB09-5263-43B9-8EAB-4E1F522617FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{E687E70A-6680-4DE7-BC9A-CDE4B47155EF}"
+	ProjectSection(SolutionItems) = preProject
+		AssemblyInfo.cs = AssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8CDB09-5263-43B9-8EAB-4E1F522617FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8CDB09-5263-43B9-8EAB-4E1F522617FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8CDB09-5263-43B9-8EAB-4E1F522617FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8CDB09-5263-43B9-8EAB-4E1F522617FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC0C02A-3154-49A2-9165-8BDAFD50612A}
+	EndGlobalSection
+EndGlobal
